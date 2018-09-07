@@ -1,4 +1,5 @@
 # Room Monitor for Temperature and Humidity
+![Preview](http://marstanjx.com/img/roommonitor.png)
 ## Description 
 This program monitors the room temperature and humidity of our dorm (Mars and me). The data is updated every 5 minutes.
 ## Instruction
